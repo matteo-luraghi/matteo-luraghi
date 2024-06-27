@@ -15,19 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matteo-luraghi&theme=tokyonight&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matteo-luraghi&hide=shell,lua,html,css,dockerfile&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![Matteo's github stats dark](https://github-readme-stats.vercel.app/api?username=matteo-luraghi&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matteo-luraghi&theme=vue&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matteo-luraghi&hide=shell,lua,html,css,dockerfile&theme=vue&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-luraghi&theme=tokyonight&langs_count=10&layout=compact&hide=shell,lua)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Matteo's github stats light](https://github-readme-stats.vercel.app/api?username=matteo-luraghi&theme=vue&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-luraghi&theme=vue&langs_count=10&layout=compact&hide=shell,lua)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 
 ## My Skills 🤹
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,js)](https://skillicons.dev)
+
+<!-- For the future check WakaTime -->
