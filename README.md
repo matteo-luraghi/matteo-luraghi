@@ -10,11 +10,17 @@
 
 [![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-luraghi&theme=vue&langs_count=10&layout=compact&hide=shell,lua)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<!-- PERSONAL INFO -->
+
 ## My Skills 🤹
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,js,docker)](https://skillicons.dev)
+<!-- LANGUAGES -->
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,js)](https://skillicons.dev)<!-- TOOLS -->
+[![My Skills](https://skillicons.dev/icons?i=mysql,docker,neovim)](https://skillicons.dev)
 
 ## I'm Learning 📚
-[![My Skills](https://skillicons.dev/icons?i=rust,go,vue)](https://skillicons.dev)
+<!-- LANGUAGES -->
+[![My Skills](https://skillicons.dev/icons?i=rust,go,htmx,vue)](https://skillicons.dev)
+<!-- TOOLS -->
+<!--[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) -->
+
 
 <!-- For the future check WakaTime -->
