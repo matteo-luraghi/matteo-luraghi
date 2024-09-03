@@ -13,14 +13,13 @@
 
 ## My Skills 🤹
 <!-- LANGUAGES -->
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,js)](https://skillicons.dev)<!-- TOOLS -->
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,js)](https://skillicons.dev) <!-- TOOLS -->
 [![My Skills](https://skillicons.dev/icons?i=mysql,docker,neovim)](https://skillicons.dev)
 
 ## I'm Learning 📚
 <!-- LANGUAGES -->
-[![My Skills](https://skillicons.dev/icons?i=rust,go,htmx,vue)](https://skillicons.dev)
-<!-- TOOLS -->
-<!--[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=rust,go,htmx,vue)](https://skillicons.dev) <!-- TOOLS -->
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
 
 
 <!-- For the future check WakaTime -->
