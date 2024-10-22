@@ -18,7 +18,7 @@
 
 ## I'm Learning 📚
 <!-- LANGUAGES -->
-[![My Skills](https://skillicons.dev/icons?i=rust,go,htmx,vue)](https://skillicons.dev) <!-- TOOLS -->
+[![My Skills](https://skillicons.dev/icons?i=rust,go,htmx,react)](https://skillicons.dev) <!-- TOOLS -->
 [![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
 
 
