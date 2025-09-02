@@ -13,13 +13,17 @@
 
 ## My Skills 🤹
 <!-- LANGUAGES -->
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,js)](https://skillicons.dev) <!-- TOOLS -->
-[![My Skills](https://skillicons.dev/icons?i=mysql,docker,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,js)](https://skillicons.dev) 
+<!-- TOOLS -->
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,podman,docker,neovim,bash)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=notion,discordbots)
 
 ## I'm Learning 📚
 <!-- LANGUAGES -->
-[![My Skills](https://skillicons.dev/icons?i=rust,go,htmx,react)](https://skillicons.dev) <!-- TOOLS -->
-[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,htmx,react)](https://skillicons.dev) 
+<!-- TOOLS -->
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,kubernetes,supabase)
 
 
 <!-- For the future check WakaTime -->
