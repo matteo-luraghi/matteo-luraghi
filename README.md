@@ -23,7 +23,7 @@
 <!-- LANGUAGES -->
 [![My Skills](https://skillicons.dev/icons?i=rust,go,htmx,react)](https://skillicons.dev) 
 <!-- TOOLS -->
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,kubernetes,supabase)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,supabase)
 
 
 <!-- For the future check WakaTime -->
