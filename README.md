@@ -1,29 +1,51 @@
 # Helo 👾
 
-<!-- DARK MODE STYLE -->
-[![Matteo's github stats dark](https://github-readme-stats.vercel.app/api?username=matteo-luraghi&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<div align="center">
+  <!-- DARK MODE STYLE -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-luraghi&theme=tokyonight&langs_count=8&layout=compact&hide=shell,lua,Jupyter%20Notebook,TeX" align="left" />
+  </a>
+  <!-- LIGHT MODE STYLE -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-luraghi&theme=vue&langs_count=8&layout=compact&hide=shell,lua,Jupyter%20Notebook,TeX" align="left" />
+  </a>
 
-[![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-luraghi&theme=tokyonight&langs_count=10&layout=compact&hide=shell,lua)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-<!-- LIGHT MODE STYLE -->
-[![Matteo's github stats light](https://github-readme-stats.vercel.app/api?username=matteo-luraghi&theme=vue&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-luraghi&theme=vue&langs_count=10&layout=compact&hide=shell,lua)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  <!-- DARK MODE STYLE -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=matteo-luraghi&theme=tokyonight&count_private=true&show_icons=true" />
+  </a>
+  <!-- LIGHT MODE STYLE -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=matteo-luraghi&theme=vue&count_private=true&show_icons=true" />
+  </a>
+</div>
 
 
 ## My Skills 🤹
-<!-- LANGUAGES -->
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,js)](https://skillicons.dev) 
-<!-- TOOLS -->
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,podman,docker,neovim,bash)
+<div>
+  <!-- DARK MODE STYLE -->
+  <a href="https://github.com/LelouchFR/skill-icons#gh-dark-mode-only">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,js,mysql,podman,docker,neovim,bash,notion,discordbots&theme=dark" />
+  </a>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=notion,discordbots)
+  <!-- LIGHT MODE STYLE -->
+  <a href="https://github.com/LelouchFR/skill-icons#gh-light-mode-only">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,js,mysql,podman,docker,neovim,bash,notion,discordbots&theme=light" />
+  </a>
+</div>
+
 
 ## I'm Learning 📚
-<!-- LANGUAGES -->
-[![My Skills](https://skillicons.dev/icons?i=rust,go,htmx,react)](https://skillicons.dev) 
-<!-- TOOLS -->
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,supabase)
+<div>
+  <!-- DARK MODE STYLE -->
+  <a href="https://github.com/LelouchFR/skill-icons#gh-dark-mode-only">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,go,htmx,react,kubernetes,supabase&theme=dark" />
+  </a>
 
+  <!-- LIGHT MODE STYLE -->
+  <a href="https://github.com/LelouchFR/skill-icons#gh-light-mode-only">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,go,htmx,react,kubernetes,supabase&theme=light" />
+  </a>
+</div>
 
 <!-- For the future check WakaTime -->
