@@ -3,20 +3,20 @@
 <div align="center">
   <!-- DARK MODE STYLE -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-luraghi&theme=tokyonight&langs_count=8&layout=compact&hide=shell,lua,Jupyter%20Notebook,TeX,CSS" align="left" />
+    <img src="https://github-readme-stats.matteoluraghi.com/api/top-langs/?username=matteo-luraghi&theme=tokyonight&langs_count=8&layout=compact&hide=shell,lua,Jupyter%20Notebook,TeX,CSS" align="left" />
   </a>
   <!-- LIGHT MODE STYLE -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-luraghi&theme=vue&langs_count=8&layout=compact&hide=shell,lua,Jupyter%20Notebook,TeX,CSS" align="left" />
+    <img src="https://github-readme-stats.matteoluraghi.com/api/top-langs/?username=matteo-luraghi&theme=vue&langs_count=8&layout=compact&hide=shell,lua,Jupyter%20Notebook,TeX,CSS" align="left" />
   </a>
 
   <!-- DARK MODE STYLE -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=matteo-luraghi&theme=tokyonight&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats.matteoluraghi.com/api?username=matteo-luraghi&theme=tokyonight&count_private=true&show_icons=true" />
   </a>
   <!-- LIGHT MODE STYLE -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=matteo-luraghi&theme=vue&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats.matteoluraghi.com/api?username=matteo-luraghi&theme=vue&count_private=true&show_icons=true" />
   </a>
 </div>
 
