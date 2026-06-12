@@ -66,12 +66,12 @@
 <div>
   <!-- DARK MODE STYLE -->
   <a href="https://github.com/LelouchFR/skill-icons#gh-dark-mode-only">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,elixir,kubernetes,mongodb,spring,prisma&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=elixir,kubernetes,mongodb,spring&theme=dark" />
   </a>
 
   <!-- LIGHT MODE STYLE -->
   <a href="https://github.com/LelouchFR/skill-icons#gh-light-mode-only">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,elixir,kubernetes,mongodb,spring,prisma&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=elixir,kubernetes,mongodb,spring&theme=light" />
   </a>
 </div>
 
